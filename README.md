@@ -13,6 +13,11 @@
 
 ⚡ Curiosidade **Amo programar, séries e animes**
 
-### 🌍 Encontre-me:
+🌍 Encontre-me:
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/clevsampaio)
+
+
+Linguagens e ferramentas:
+
+CSharp, Java, Javascript, Typescript, PHP, HTML, CSS, NodeJS, MongoDB, MySQL, Electron, Cypress, Selenium, Mocha, RobotFramework, Photoshop, Figma, Postman, NuxtJS, Unity, Linux, GIT
