@@ -1,28 +1,15 @@
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+![mario programando](https://i.imgur.com/1ZvVkDc.gif)
 
-## Hi there, I'm Cleverson Sampaio 👋
-### QA Automation Engineer in [DBServices Portugal](https://dbservices.pt)
+## Oi 👋, eu sou Cleverson Sampaio 👋
+#### Um desenvolvedor apaixonado do Brasil
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
 
-```typescript
-const clevsampaio = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "PHP"],
-    askMeAbout: ["Web development", "Automation"],
-    technologies: {
-        frontEnd: ["Nuxt.js"],
-        backEnd: ["Adonis.js"],
-        devOps: ["Docker"],
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Selenium", "PHP"]
-    },
-    curiosity: "I love watching series and anime"
-};
-```
+🔭 Estou trabalhando atualmente **[DBServices Portugal](https://dbservices.pt)**
+💬 Pergunte-me sobre **HTML, CSS, PHP, Javascript, Typescript, Java, C# e tudo sobre o mundo de QA**
+📫 Como chegar até mim **cleverson@sampaio.dev.br**
+⚡ Curiosidade **Amo programar, séries e animes
 
-### 🌍 Find me:
+### 🌍 Encontre-me:
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/clevsampaio)
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clevsampaio)
-[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/clevsampaio)
