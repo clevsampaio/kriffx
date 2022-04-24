@@ -7,11 +7,11 @@
 
 🔭 Estou trabalhando atualmente **[DBServices Portugal](https://dbservices.pt)**
 
-💬 Pergunte-me sobre **HTML, CSS, PHP, Javascript, Typescript, Java, C# e tudo sobre o mundo de QA**
+💬 Pergunte-me sobre **HTML**, **CSS**, **PHP**, **Javascript**, **Typescript**, **Java**, **C# e tudo sobre o mundo de QA**
 
 📫 Como chegar até mim **cleverson@sampaio.dev.br**
 
-⚡ Curiosidade **Amo programar, séries e animes
+⚡ Curiosidade **Amo programar, séries e animes**
 
 ### 🌍 Encontre-me:
 
